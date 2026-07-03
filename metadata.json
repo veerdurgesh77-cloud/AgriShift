@@ -1,0 +1,6 @@
+{
+  "name": "AgriShift",
+  "description": "Hyper-local farmer-to-machinery marketplace powered by multilingual AI parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
